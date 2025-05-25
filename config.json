@@ -1,6 +1,6 @@
 {
   "name": "DataEntry",
   "version": "1.0.0",
-  "isUpadteAvailable": false,
-  "testIsUpdateAvailable":true
+  "isConfigAvailable": true,
+  "testIsUpdateAvailable": true
 }
